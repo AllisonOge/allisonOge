@@ -8,12 +8,12 @@ My latest focus is building generalizable models with self-supervised learning f
 
 Previously, I worked on fully supervised models on classification and regression tasks at [Qoherent Inc.](https://qoherent.ai/).
 
-- [qIQ2Seq_forecast](https://github.com/Qoherent-WAVESLAB/qIQ2Seq_forecast) takes history of IQ samples and predicts a 2ms window in the future
 - [qRadioMoCo](https://github.com/Qoherent-WAVESLAB/qRadioMoCo) attempts to learns two in distribution tasks with self-supervised learning using MoCo framework
 - [qSeptroDetect](https://github.com/Qoherent-WAVESLAB/qSpectroDetect) is a signal localization and classification model on both narrow and wideband spectrum given IQ samples
+- [qIQ2Seq_forecast](https://github.com/Qoherent-WAVESLAB/qIQ2Seq_forecast) takes history of IQ samples and predicts a 2ms window in the future
 
 Publications:
 
-- ICC2025: [Self-supervised Radio Representation Learning: Can we learn multiple tasks?]()
+- ICC2025: [Self-supervised Radio Representation Learning: Can we learn multiple tasks?](http://arxiv.org/abs/2509.03077)
 
 Reach out to me: ogechukwu.kanu at ucalgary.ca
